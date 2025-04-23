@@ -1,6 +1,6 @@
 # CLI-Task-Tracker
 
-This is a proposed solution to the CLI task tracker roadmap.sh challenge.
+This is a proposed solution to the [CLI task tracker challenge](https://roadmap.sh/projects/task-tracker) from [roadmap.sh](https://roadmap.sh/).
 
 ## Features
 
